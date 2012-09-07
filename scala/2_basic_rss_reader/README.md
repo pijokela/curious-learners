@@ -53,6 +53,8 @@ Get the article titles and links to the grouped by the authors name from the RSS
 The articles are "item" elements. The authors name is in "dc:creator" element.
 The URL to see the article is in the "link" element.
 
+Check out the groupBy method from Seq.
+
 When I did this the result looked like this:
 
 <pre>
